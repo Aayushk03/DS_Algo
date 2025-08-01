@@ -1,6 +1,5 @@
 /*
     Leetcode Link  : https://leetcode.com/problems/pascals-triangle/
-    Approach(Doing simply just like Pascal triangle is formed)
 */
 
 class Solution {
